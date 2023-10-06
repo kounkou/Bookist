@@ -4,7 +4,11 @@ It is true that the best way to learn something to its deepest level is the abil
 
 # System design
 
-https://quip.com/bWPsA0q5zHaB/Bookist-System-Design-document
+<p align="center">
+  <img width="600" alt="Screenshot 2023-10-03 at 12 17 43 AM" src="https://github.com/kounkou/Bookist/assets/2589171/ee19125f-b980-4e88-82dd-b75111b8095d">
+  <br>
+  https://quip.com/bWPsA0q5zHaB/Bookist-System-Design-document
+</p>
 
 # What are the most exciting features?
 
